@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Imágenes del Jabiru</title>
+
+		<link rel="stylesheet" href="css/estilos.css">
+
+		<meta charset="UTF-8">
+	</head>
+	<body>
+	<nav>
+	<a href="index.html">Principal</a> 
+	<a href="distribucion.html">Distribucion</a>
+	Imágenes
+	</nav>
+	<p>Imágenes en CR
+	</p>
+	<figure>
+		
+		<img src="https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F1309202%2Foriginal.JPG%3F1414554406" alt="IMG1" height="375" width="500"/>
+		<cite>Imagen 1</cite> by Johnny Villarreal. Painted in 2014.
+	</figure>
+	<figure>	
+		<img src="https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F2137692%2Foriginal.JPG%3F1437010633" alt="IMG2" height="346" width="500"/>
+		<cite>Imagen 2</cite> by Paul Prior. Painted in 2015.
+	</figure>
+	<figure>	
+		<img src="https://api.gbif.org/v1/image/unsafe/500x/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F5863552%2Foriginal.jpg%3F1482437504" alt="IMG3" height="375" width="500"/>
+		<cite>Imagen 3</cite> by purperlibel. Painted in 2016.
+	</figure>
+
+
+	
+	</body>
+</html>
