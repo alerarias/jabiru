@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Mapa del Jabiru</title>
+
+		<link rel="stylesheet" href="css/estilos.css">
+
+		<meta charset="UTF-8">
+	</head>
+	<body>
+	<nav>
+	<a href="index.html">Principal</a>
+	Distribucion
+	<a href="imagenes.html">Imagenes</a> 
+	</nav>
+	<p>
+	<iframe src="https://www.google.com/maps/d/embed?mid=1on4cgyO1k1DcgNlcZkyJnPaKh9w" width="640" height="480"></iframe>
+
+
+	</body>
+</html>
