@@ -1,0 +1,25 @@
+p {
+    font-family:"Times New Roman", Times, Serif;
+    font-size:23px;
+	color: gray;
+}
+
+body {
+    background-color:#00ffff;
+    margin:100px 20px 0px 100px;
+}  
+
+cite {
+		color:red;
+} 
+
+h1 {
+		color:red;
+		font-size:30px;
+}   
+
+iframe {
+		display:block;
+		margin:auto;
+		width:60%;
+}   
